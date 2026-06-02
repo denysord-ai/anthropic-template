@@ -68,7 +68,7 @@ uv run main.py
 ## Project structure
 
 ```
-openai_api/
+anthropic-template/
 ├── main.py           # Entry point
 ├── pyproject.toml    # Project metadata and dependencies
 ├── uv.lock           # Locked dependency versions
