@@ -1,0 +1,16 @@
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDE settings
+.idea/
+
+# Environments
+.venv
+.env
