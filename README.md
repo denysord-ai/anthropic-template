@@ -1,6 +1,6 @@
 # OpenAI API Template
 
-A minimal Python starter template for the OpenAI API using [uv](https://docs.astral.sh/uv/) for dependency management.
+A minimal Python starter template for the Anthropic API using [uv](https://docs.astral.sh/uv/) for dependency management.
 
 ## Requirements
 
